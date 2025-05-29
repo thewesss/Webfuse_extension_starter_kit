@@ -25,7 +25,7 @@ ui.js → Optional overlay / popup behavior
 
 ### 1. Clone or Download
 
-Copy this folder structure into your own project, or [download this repo as a ZIP](https://github.com/webfuse-dev/webfuse-extension-starter-kit/archive/refs/heads/main.zip).
+Copy this folder structure into your own project.
 
 ### 2. Edit the Files
 
